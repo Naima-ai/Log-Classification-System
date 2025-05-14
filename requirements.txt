@@ -1,0 +1,8 @@
+fastapi
+redis
+types-redis
+uvicorn
+SentenceTransformer
+re
+groq
+dotenv
