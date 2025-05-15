@@ -3,7 +3,6 @@
 This project presents a robust log classification system designed to effectively categorize system and application logs using a hybrid classification framework. Built with flexibility and real-world adaptability in mind, this system leverages a combination of rule-based and machine learning approaches to handle both simple and complex log patterns.
 
 🎯 **Live Demo:** [Streamlit App](https://log-classification-systems.streamlit.app/)
-📂 **Source Code:** [GitHub Repository](https://github.com/Naima-ai/Log-Classification-System)
 
 
 ## 🚀 Key Features
